@@ -24,11 +24,11 @@ of everything (all years, one repo, full original git history via `git subtree`)
 
 | Period | Project | Status | Link |
 |---|---|---|---|
-| Q3 | Performance Efficiency | ✅ | [L2Q3KM-PerformanceEfficiency](https://github.com/DanielvG-Avans/L2Q3KM-PerformanceEfficiency) |
-| S1 (Q1+Q2 minor) — LU1 | KeuzeKompas PoC — TypeScript | ✅ | [L2S1LU1-TypeScript](https://github.com/DanielvG-Avans/L2S1LU1-TypeScript) |
-| S1 — LU1 | KeuzeKompas PoC — JavaScript | ✅ | [L2S1LU1-JavaScript](https://github.com/DanielvG-Avans/L2S1LU1-JavaScript) |
+| S1 — LU1.1 | KeuzeKompas PoC — JavaScript | ✅ | [L2S1LU1-JavaScript](https://github.com/DanielvG-Avans/L2S1LU1-JavaScript) |
+| S1 — LU1.2 | KeuzeKompas PoC — TypeScript | ✅ | [L2S1LU1-TypeScript](https://github.com/DanielvG-Avans/L2S1LU1-TypeScript) |
 | S1 — LU2 | KeuzeKompas Prototype (Recommendation) | ✅ | [L2S1LU2-Recommendation](https://github.com/DanielvG-Avans/L2S1LU2-Recommendation) |
 | S1 — LU3 | KeuzeKompas MVP (team) | 🔗 | [CompassGPT](https://github.com/CompassGPT) |
+| Q3 | Performance Efficiency | ✅ | [L2Q3KM-PerformanceEfficiency](https://github.com/DanielvG-Avans/L2Q3KM-PerformanceEfficiency) |
 | Q4 — LU1 | Softwarearchitectuur — Notification Service (team) | 🔗 | [PatientPingeling](https://github.com/PatientPingeling) |
 | Q4 — LU2 | Softwarearchitectuur — Security Audit (team) | 🔗 | [GrannyGuard](https://github.com/GrannyGuard) |
 
